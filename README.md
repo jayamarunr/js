@@ -1,2 +1,2 @@
-# js
-Eloquent Javascript book practice
+# Javascript learning
+### Eloquent Javascript book practice
